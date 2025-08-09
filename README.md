@@ -35,7 +35,7 @@ I enjoy solving real-world problems, contributing to team projects, and continuo
 ---
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/curly.girl007?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/curlygirl007?theme=dark&ext=heatmap)
 
 ---
 
